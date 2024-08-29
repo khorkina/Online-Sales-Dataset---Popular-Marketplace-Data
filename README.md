@@ -6,6 +6,9 @@
 
 ![image](https://github.com/khorkina/Online-Sales-Dataset---Popular-Marketplace-Data/assets/166530415/6c05007a-bb8e-4112-b0b5-72d00ee2883b)
 
+
+
+
 ![image](https://github.com/khorkina/Online-Sales-Dataset---Popular-Marketplace-Data/assets/166530415/03b08779-20e3-4dad-9334-e451e19d83b7)
 
 ![image](https://github.com/khorkina/Online-Sales-Dataset---Popular-Marketplace-Data/assets/166530415/c31028c9-8c60-466e-a8e9-bafc39fb30be)
